@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>orcid-svg</title>
+	<defs>
+		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAASZQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////4xINRAAAAGJ0Uk5TAApVqM7i9hWb9f8Je/J6E8XDFCjf3Sob5MbaDtKz+4i3IPcXneiXBvE3nxg+a8vwSKAcQD8HAoRw6pYSksBvyAXK2H1yzTPsD9ssh2cLx1g4gFsrAVw1uee//BbjJiQao1CbrvRWAAABYElEQVR4nH1T51rCQBBcSgIsIEVQgyJKlGAFjSgWpNmwoNh7ef+X0OQ2IZcczp/cZubbmVx2AWz4/IGgJMtSMOD3gRehcARtRMIhFx2NxZFDfCzq5BNJ9CCVHvLjGS+PmJ2w+Mkpo1Y8qhz1mJ4xqjwkZt0KheUomMWcQIAFg58vklwQpKj+CRaokBYFQUsAWpkywxLisum5srq2ToKKBlV0CDZgU9f1rRps79DrKpR4Qd047+7tw4Hl0UDO4pBVzVarbR4a0OE7kAC7cGQ+O1ARdsBjOGEp3YI6ladwRoIRFj04JwtxSLyASwpZ4gVk0bmCPn2m66JYh74K19ZFaRVOcDMYdG/v7uGBTWhZA8uDBCZqj3m0LhJAZb9bfmoiPr8YyL0SjcW34cAIUWAjr4zi+zT66Xcx37MH/yMr4jOfw8VIp7x8MuFcLS0m83Q8prm28+v/5TVgr//3j2P9fwGD2jvCjBoGfwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer" href="#img1" x="0" y="0"/>
+</svg>
